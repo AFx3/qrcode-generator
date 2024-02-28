@@ -12,13 +12,13 @@ You can install Rust by following the instructions on the official Rust website:
 1. **Clone the Repository**: Clone this repository to your local machine using Git.
 
     ```bash
-    git clone https://github.com/your-username/your-repository.git
+    git clone https://github.com/AFx3/qrcode-generator.git
     ```
 
 2. **Navigate to the Project Directory**: Change your current directory to the project directory.
 
     ```bash
-    cd your-repository
+    cd qrcode-rust
     ```
 
 3. **Compile and Run the Application**: Use Cargo, the Rust package manager, to compile and run the application.
@@ -29,8 +29,8 @@ You can install Rust by following the instructions on the official Rust website:
 
 4. **Enter URL**: When prompted, enter the URL you want to encode into the QR code.
 
-5. **QR Code Generation**: The application will generate a QR code based on the provided URL and save it as `qrcodegenerated.png` in the `target/debug` directory of the project.
+5. **QR Code Generation**: The application will generate a QR code based on the provided URL and save it as `QR_code_generated.png` in the `qrcode-generator/qrcode-rust` directory of the project.
 
-6. **View QR Code**: Navigate to the `target/debug` directory to view the generated QR code image.
+6. **View QR Code**: Navigate to the `qrcode-generator/qrcode-rust` directory to view the generated QR code image (png format).
 
 
